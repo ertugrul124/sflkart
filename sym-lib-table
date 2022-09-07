@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "moduller")(type "KiCad")(uri "${KIPRJMOD}/moduller.kicad_sym")(options "")(descr ""))
+)
